@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Alpha-city-smp.aternos.me:63033",
+    "port": 63033,
     "version": "",
     "try-creative": false
   },
