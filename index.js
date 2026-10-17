@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "Alpha-city-smp-GxnD.aternos.me",
+    "port": 52985,
     "version": "1.21.1"
   },
   "position": {
